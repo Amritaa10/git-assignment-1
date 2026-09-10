@@ -1,1 +1,1 @@
-console.log("CI test executed successfully!");
+console.log("CI test executed successfully!"
